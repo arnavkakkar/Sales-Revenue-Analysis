@@ -119,7 +119,7 @@ jupyter notebook
 
 Run:
 
-    eda.ipynb
+    sales-revenue-analysis.ipynb
 
 ------------------------------------------------------------------------
 
