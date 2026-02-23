@@ -119,7 +119,7 @@ jupyter notebook
 
 Run:
 
-    sales-revenue-analysis.ipynb
+    sales revenue analysis.ipynb
 
 ------------------------------------------------------------------------
 
